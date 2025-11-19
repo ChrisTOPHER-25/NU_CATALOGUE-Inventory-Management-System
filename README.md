@@ -11,5 +11,5 @@ Setup:
 <li> Open the Browser"</li>
 <li> Write localhost/phpmyadmin"</li>
 <li> Insert the Database"</li>
-<li> Write localhost/NUCatalogue to Run the System"</li>
+<li> Write localhost/NU-Catalogue to Run the System"</li>
 </ul>
